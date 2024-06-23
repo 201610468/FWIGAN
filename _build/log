@@ -1,0 +1,5 @@
+# dune uninstall
+# OCAMLPARAM: unset
+# Workspace root: /home/jbgpl/velocity_model/FWIGAN
+$ /usr/bin/nproc > /tmp/dunec99210.output 2> /dev/null
+# Auto-detected concurrency: 24
